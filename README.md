@@ -6,18 +6,18 @@ Explore how daily habits and digital lifestyle relate to a model-estimated stude
 
 🔗 **[Try Student Wellbeing Lab](https://student-wellbeing-score.streamlit.app/)**
 
+
 ## 📸 Screenshots
 
 ### 1. Student Wellbeing Dashboard
 
-![Student Wellbeing Dashboard](<img width="931" height="732" alt="image" src="https://github.com/user-attachments/assets/359a443d-ba1d-4113-96ad-480db498127a" />
-)(<img width="971" height="407" alt="image" src="https://github.com/user-attachments/assets/cb2f6e5d-04bb-43b9-95dd-abc5525ba722" />
-)
+![Student Wellbeing Dashboard](https://github.com/user-attachments/assets/359a443d-ba1d-4113-96ad-480db498127a)
+
+![Student Wellbeing Dashboard - Full Form](https://github.com/user-attachments/assets/cb2f6e5d-04bb-43b9-95dd-abc5525ba722)
 
 ### 2. Wellbeing Score Prediction
 
-![Wellbeing Score Prediction](<img width="681" height="470" alt="image" src="https://github.com/user-attachments/assets/80498969-ebc1-45bd-8be0-d4983810e4c6" />
-)
+![Wellbeing Score Prediction](https://github.com/user-attachments/assets/80498969-ebc1-45bd-8be0-d4983810e4c6)
 
 ## ✨ Features
 
